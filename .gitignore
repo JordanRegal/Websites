@@ -1,0 +1,7 @@
+# Local visual QA output
+desktop-preview.png
+mobile-preview.png
+
+# Operating system files
+.DS_Store
+Thumbs.db
